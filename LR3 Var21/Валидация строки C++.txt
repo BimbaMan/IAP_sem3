@@ -1,0 +1,62 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <stdbool.h>
+
+void main()
+{
+	char inputstr[255];
+	gets(inputstr);
+
+	int i = 0;		//trim left side
+	while (i < strlen(inputstr))
+	{
+		if (inputstr[i] == ' ')
+		{
+			for (int j = i; j < strlen(inputstr); j++)
+			{
+				inputstr[j] = inputstr[j + 1];
+			}
+			i--;
+		}
+		i++;
+		if (inputstr[i] != ' ')
+		{
+			break;
+		}
+		
+	}
+
+	i = strlen(inputstr)-1;		//trim rigth side
+	while (i > 0)
+	{
+		if (inputstr[i] == ' ')
+		{
+			inputstr[i] = '/0';
+
+		}
+		i--;
+		if (inputstr[i] != ' ')
+		{
+			break;
+		}
+		
+	}
+
+	i = 0;		//delete trash symbols 
+	while (i<strlen(inputstr))
+	{
+		if (!((inputstr[i]>'A')&&(inputstr[i]<'Z')||((inputstr[i]>'a')&&(inputstr[i]<'z'))||(inputstr[i]==' ')))
+		{
+			for (int j = i; j < strlen(inputstr); j++)
+			{ inputstr[j] = inputstr[j + 1]; }
+			i--;
+		}
+		 i++;		
+	}
+
+	printf("length is %d\n",strlen(inputstr));
+	puts(inputstr);
+
+
+}

@@ -1,0 +1,4 @@
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21\LR3\Debug\LR3.exe
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21\LR3\Debug\LR3.pdb
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки\LR3\Debug\LR3.exe
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Debug\LR3.exe

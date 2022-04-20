@@ -1,0 +1,5 @@
+﻿  LexerJap.cpp
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 9 Вар 7 трансляторы\LexerJap\LexerJap.cpp(70,10): warning C4101: isCorrect: неиспользованная локальная переменная
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 9 Вар 7 трансляторы\LexerJap\LexerJap.cpp(83,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 9 Вар 7 трансляторы\LexerJap\LexerJap.cpp(107,31): warning C4018: <: несоответствие типов со знаком и без знака
+  LexerJap.vcxproj -> C:\Users\Иван\Desktop\Уник\ЯП\Лаба 9 Вар 7 трансляторы\LexerJap\Debug\LexerJap.exe

@@ -1,0 +1,5 @@
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 5 Вар 21 файлы\LR5\Debug\LR5.exe
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 5 Вар 21 файлы\LR5\Debug\LR5.pdb
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 5 Вар 21 файлы сдать\LR5\Debug\LR5.exe
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 5 Вар 21 файлы сдать\LR5\Debug\LR5.pdb
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 5 Вар 21 файлы сдана\LR5\Debug\LR5.exe

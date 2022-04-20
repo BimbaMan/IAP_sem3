@@ -1,0 +1,4 @@
+﻿  Main.c
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 8 Вар 6 деревья\LR8\Main.c(51,14): warning C4013: time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 8 Вар 6 деревья\LR8\Main.c(95,11): warning C4098: count: функция типа "void", возвращающая значение
+  LR8.vcxproj -> C:\Users\Иван\Desktop\Уник\ЯП\Лаба 8 Вар 6 деревья\LR8\Debug\LR8.exe

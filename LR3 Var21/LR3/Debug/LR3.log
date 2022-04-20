@@ -1,0 +1,12 @@
+﻿  Source.c
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Source.c(9,6): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Source.c(12,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Source.c(16,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Source.c(26,11): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Source.c(30,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Source.c(69,14): warning C4013: ispunct: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Source.c(69,38): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Source.c(69,48): warning C4013: isspace: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Source.c(69,71): warning C4047: !=: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Source.c(80,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  LR3.vcxproj -> C:\Users\Иван\Desktop\Уник\ЯП\Лаба 3 Вар 21 строки сдано\LR3\Debug\LR3.exe
